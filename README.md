@@ -57,3 +57,7 @@ Unity遊戲
 ![](活動圖3.jpg "活動圖3")
 ### 分鏡板:
 ![](分鏡板.jpg "分鏡板")
+|Left side| Center |Right side|
+|:--------|:------:|---------:|
+|1st|1st|1st|
+|2nd|2nd|2nd|
