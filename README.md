@@ -1,5 +1,7 @@
 # 2020_OO_11
 ### 組別:第11組
+### PPT:
+[PPT](https://drive.google.com/file/d/1sFEMQYx3cIIibGKusa3PCQ6xU-iGxG4-/view?usp=sharing)
 ### 小組成員:
 - 組長:林甄瑩
 - 組員:蔡昕潔
